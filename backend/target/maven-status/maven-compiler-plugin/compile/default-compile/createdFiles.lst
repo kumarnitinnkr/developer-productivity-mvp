@@ -1,0 +1,7 @@
+com\productivity\service\InsightService.class
+com\productivity\service\DataService.class
+com\productivity\model\MetricsResponse.class
+com\productivity\model\Developer.class
+com\productivity\ProductivityApplication.class
+com\productivity\service\MetricsService.class
+com\productivity\controller\ProductivityController.class
