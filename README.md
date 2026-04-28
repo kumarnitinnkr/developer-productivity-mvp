@@ -68,7 +68,7 @@ Suggests practical next steps such as:
 - frontend :  https://developer-productivity-mvp-frontend.onrender.com
 - backend  :  https://developer-productivity-mvp-backend.onrender.com
 - 
-##   backend returns  
+##   backend returns  ( copy and paste in browser for testing )
     https://developer-productivity-mvp-backend.onrender.com/api/developers
 
 ---
