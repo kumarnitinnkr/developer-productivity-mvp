@@ -90,26 +90,28 @@ Metrics Engine + Insight Rules
 
 ![Metrics](https://github.com/kumarnitinnkr/developer-productivity-mvp/blob/main/mvp_dashboard.png)
 
-### Insights View
 
-![Insights](https://github.com/kumarnitinnkr/developer-productivity-mvp/blob/main/mvp_dashboard.png)
 
 ---
 Backend
+
 cd backend
 mvn spring-boot:run
 
 Runs on:
-
 http://localhost:8080
+
+
 Frontend
+
 cd frontend
 npm install
 npm start
 
 Runs on:
-
 http://localhost:3000
+
+
 🔌 API Endpoints
 Get Developers
 GET /api/developers
@@ -134,9 +136,8 @@ Notifications
 
 ## 🚀 Local Setup
 
-### Clone Repo    ```bash
-git clone YOUR_REPO_LINK
-cd developer-productivity-mvp
+### Clone Repo 
+https://github.com/kumarnitinnkr/developer-productivity-mvp
 
 
 👤 Author
