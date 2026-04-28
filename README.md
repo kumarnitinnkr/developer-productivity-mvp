@@ -84,15 +84,15 @@ Metrics Engine + Insight Rules
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/kumarnitinnkr/developer-productivity-mvp/blob/main/mvp_dashboard.png)
 
 ### Metrics View
 
-![Metrics](screenshots/metrics.png)
+![Metrics](https://github.com/kumarnitinnkr/developer-productivity-mvp/blob/main/mvp_dashboard.png)
 
 ### Insights View
 
-![Insights](screenshots/insights.png)
+![Insights](https://github.com/kumarnitinnkr/developer-productivity-mvp/blob/main/mvp_dashboard.png)
 
 ---
 Backend
