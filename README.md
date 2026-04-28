@@ -65,6 +65,9 @@ Suggests practical next steps such as:
 ### Deployment
 - Render
 
+- frontend :  https://developer-productivity-mvp-frontend.onrender.com
+- backend  :  https://developer-productivity-mvp-backend.onrender.com
+
 ---
 
 ## 🏗 Architecture
