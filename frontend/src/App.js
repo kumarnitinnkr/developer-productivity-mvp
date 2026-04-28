@@ -7,7 +7,7 @@ function App() {
   const [insights, setInsights] = useState([]);
   const [actions, setActions] = useState([]);
 
-  const BASE = "http://localhost:8080/api";
+  const BASE = "https://developer-productivity-mvp-backend.onrender.com";
 
   useEffect(() => {
     fetch(BASE + "/developers")
