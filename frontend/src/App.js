@@ -7,8 +7,7 @@ function App() {
   const [insights, setInsights] = useState([]);
   const [actions, setActions] = useState([]);
 
-  const BASE = "https://developer-productivity-mvp-backend.onrender.com";
-
+  const BASE = "https://developer-productivity-mvp-backend.onrender.com/api";
   useEffect(() => {
     fetch(BASE + "/developers")
       .then(res => res.json())
