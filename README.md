@@ -92,11 +92,50 @@ Metrics Engine + Insight Rules
 ![Insights](screenshots/insights.png)
 
 ---
+Backend
+cd backend
+mvn spring-boot:run
+
+Runs on:
+
+http://localhost:8080
+Frontend
+cd frontend
+npm install
+npm start
+
+Runs on:
+
+http://localhost:3000
+🔌 API Endpoints
+Get Developers
+GET /api/developers
+Get Metrics
+GET /api/metrics/{id}
+Get Insights
+GET /api/insights/{id}
+🎯 Product Thinking
+
+Instead of building a broad unfinished dashboard, this project focuses on one strong user journey:
+
+Developer → Understand Metrics → Receive Guidance → Improve Productivity
+
+📈 Future Enhancements
+Real database integration
+Authentication
+Historical trends
+Team manager dashboard
+ML-based recommendations
+Notifications
+
 
 ## 🚀 Local Setup
 
-### Clone Repo
-
-```bash
+### Clone Repo    ```bash
 git clone YOUR_REPO_LINK
 cd developer-productivity-mvp
+
+
+👤 Author
+
+Nitin Kumar
